@@ -1,7 +1,3 @@
-## Запуск
-Компіляція: mvn compile
-Запуск: mvn exec:java -Dexec.mainClass="roman_dst.MyMain"
-
 ## Лабораторна робота 2 - TCP Sockets
 
 ## Запуск сервера
